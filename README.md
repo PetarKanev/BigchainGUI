@@ -1,7 +1,7 @@
 # BigchainGUI
 Python GUI to start BigchainDB and load test transactions. 
 
-# PREREQUISITES: 
+# Prerequisites: 
 
 Works on Ubuntu 15.04 (Should work will all Linux distributions). 
 
@@ -11,7 +11,7 @@ Works on Ubuntu 15.04 (Should work will all Linux distributions).
 2. Must have BigchainDB installed. 
 3. Python3 
 
-# TO RUN:
+# To Run:
 1. Go to working directory - cd path/to/BigchainGUI.py
 2. Run the script - python3 BigchainGUI.py
 
